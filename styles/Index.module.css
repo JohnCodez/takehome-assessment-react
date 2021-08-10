@@ -1,0 +1,40 @@
+.title {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    font-family: 'Dancing Script', cursive;
+    font-weight: 1000;
+    font-size: 4rem;
+}
+
+.loading {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    left: 50%;
+    top: 0;
+    margin-top: 10rem;
+    transform: translateX(-50%);
+}
+
+.submit {
+    width: 75%;
+    left: 0;
+    margin-left: 12.5%;
+    margin-top: 2rem;
+}
+
+.clear {
+    width: 50%;
+    left: 0;
+    margin-left: 25%;
+}

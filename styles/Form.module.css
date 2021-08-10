@@ -1,0 +1,21 @@
+.form {
+    position: relative;
+    width: 25rem;
+    margin: 3rem;
+}
+.form * {
+    margin: .5rem;
+    padding: .5rem;
+}
+
+.name {
+    width: 96%;
+}
+
+.description {
+    height: 6rem;
+}
+
+.countries {
+    width: 100%;
+}

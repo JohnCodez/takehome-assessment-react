@@ -1,0 +1,29 @@
+.main {
+    position: relative;
+    width: 20rem;
+    height: 20rem;
+    background-color: #161f27;
+    padding: 1rem;
+    border-radius: 6px;
+    margin: 3rem;
+}
+
+.success {
+    color: green;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.failed {
+    color: red;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.clear {
+    position: absolute;
+    bottom: 0;
+    margin-left: 7rem;
+    margin-bottom: 1rem;
+    background-color: #202b38;
+}
